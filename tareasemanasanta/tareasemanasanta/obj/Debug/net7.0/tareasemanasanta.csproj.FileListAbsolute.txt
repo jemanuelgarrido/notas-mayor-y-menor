@@ -1,0 +1,15 @@
+/Users/emanuelgarrido/Desktop/University/tareasemanasanta/tareasemanasanta/obj/Debug/net7.0/tareasemanasanta.csproj.AssemblyReference.cache
+/Users/emanuelgarrido/Desktop/University/tareasemanasanta/tareasemanasanta/obj/Debug/net7.0/tareasemanasanta.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emanuelgarrido/Desktop/University/tareasemanasanta/tareasemanasanta/obj/Debug/net7.0/tareasemanasanta.AssemblyInfoInputs.cache
+/Users/emanuelgarrido/Desktop/University/tareasemanasanta/tareasemanasanta/obj/Debug/net7.0/tareasemanasanta.AssemblyInfo.cs
+/Users/emanuelgarrido/Desktop/University/tareasemanasanta/tareasemanasanta/obj/Debug/net7.0/tareasemanasanta.csproj.CoreCompileInputs.cache
+/Users/emanuelgarrido/Desktop/University/tareasemanasanta/tareasemanasanta/bin/Debug/net7.0/tareasemanasanta
+/Users/emanuelgarrido/Desktop/University/tareasemanasanta/tareasemanasanta/bin/Debug/net7.0/tareasemanasanta.deps.json
+/Users/emanuelgarrido/Desktop/University/tareasemanasanta/tareasemanasanta/bin/Debug/net7.0/tareasemanasanta.runtimeconfig.json
+/Users/emanuelgarrido/Desktop/University/tareasemanasanta/tareasemanasanta/bin/Debug/net7.0/tareasemanasanta.dll
+/Users/emanuelgarrido/Desktop/University/tareasemanasanta/tareasemanasanta/bin/Debug/net7.0/tareasemanasanta.pdb
+/Users/emanuelgarrido/Desktop/University/tareasemanasanta/tareasemanasanta/obj/Debug/net7.0/tareasemanasanta.dll
+/Users/emanuelgarrido/Desktop/University/tareasemanasanta/tareasemanasanta/obj/Debug/net7.0/refint/tareasemanasanta.dll
+/Users/emanuelgarrido/Desktop/University/tareasemanasanta/tareasemanasanta/obj/Debug/net7.0/tareasemanasanta.pdb
+/Users/emanuelgarrido/Desktop/University/tareasemanasanta/tareasemanasanta/obj/Debug/net7.0/tareasemanasanta.genruntimeconfig.cache
+/Users/emanuelgarrido/Desktop/University/tareasemanasanta/tareasemanasanta/obj/Debug/net7.0/ref/tareasemanasanta.dll
